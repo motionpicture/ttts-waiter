@@ -5,7 +5,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## Unreleased
 ### Added
-- 本家WAITERを引き継ぎ。
 
 ### Changed
 
@@ -17,3 +16,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ### Security
 
+
+## v0.0.0 - 2018-01-19
+### Added
+- 本家WAITERを引き継ぎ。
